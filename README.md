@@ -1,2 +1,2 @@
 # Jacquemus-html-css
-JUacquemus profile page, lesson 1
+Jacquemus profile page, lesson 1
